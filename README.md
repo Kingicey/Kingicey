@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there, My Name is Okolo Ifeanyi Christian (Icey).. 👋
 
-
-**Kingicey/Kingicey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--
+**Kingicey/Kingicey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
